@@ -1,4 +1,4 @@
-# EmployeeTracker
+# Employee Tracker
 ## Description
 See, Create, and Update employee roles, adjust and view salaries for your employees to track and manage your employee database.
 
@@ -17,7 +17,7 @@ Watch the video walk through [here.](https://youtu.be/X2gv7bG78Dg)
 
 
 ### How to Deploy Application
-Clone into the repo, run "npm i" to install any npm packages, and begin the program by running "node ./app.js" and follow all prompts to create your Team Profile.
+Clone into the repo, run "npm i" to install any npm packages, and begin the program by running "node server.js" and follow all prompts to create your Team Profile.
 
 
 
