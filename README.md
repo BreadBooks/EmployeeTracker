@@ -4,7 +4,7 @@ See, Create, and Update employee roles, adjust and view salaries for your employ
 
 ![Preview](./images/preview.png)
 
-Watch the video walk through [here.](https://youtu.be/NgZ6lDaVX40)
+Watch the video walk through [here.](https://youtu.be/X2gv7bG78Dg)
 ## Table of Contents
 * [Title](#title)
 * [Description](#description)
