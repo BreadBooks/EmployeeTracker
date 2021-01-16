@@ -259,7 +259,7 @@ async function updateEmployeeManager() {
     }
   ]);
 
-  const managers = await db.findAllPossibleManagers(employeeId);
+  const managers = await db.findAllManagers(employeeId);
 
   const managerChoices = managers.map(({ id, first_name, last_name }) => ({
     name: `${first_name} ${last_name}`,
